@@ -1,0 +1,5 @@
+build
+*-backups
+*-cache
+*.g2g
+*.kicad_sch-bak

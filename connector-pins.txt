@@ -1,0 +1,20 @@
+8 PIN:
+1 TXD 
+2 GND
+3 RXD
+4 VCC
+5 BTN PIN 13 (TCK)
+6 RTA PIN 15 (TD0)
+7 LED PIN 10 (SD3)
+8 RTB PIN 36 (SVP - input only)
+
+RJ45 T-568A pinout:
+1 - Green-W
+2 - Green
+3 - Yellow-W
+4 - Blue
+5 - Blue-W
+6 - Yellow
+7 - Brown-W
+8 - Brown
+
